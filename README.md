@@ -2,6 +2,11 @@
 
 Created the game loop, created a jframe and jpanel, draw images on the jpanel, load the game map using a tilemap, add click handlers to make the pacman move, create a simple algorithm to move each ghost at random, detect collisions between the pacman and ghosts, have pacman eat the food pellets, add a running score, and reset the game when pacman collides with a ghost. 
 
+**Screenshot**
+
+![image](https://github.com/user-attachments/assets/5890979a-8360-48e8-8017-2ea69092fdcc)
+
+
 **Features**
 
 🎮 Interactive Gameplay: Control Pac-Man with click handlers to navigate through the game map.
